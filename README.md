@@ -151,8 +151,7 @@ For Hardware:
 
 ## Team Contributions
 - **Kailasnath T**: End-to-end architecture & implementation: Optical computer vision tachometer, React 19 neobrutalist UI, Web Audio procedural engine, and NBFC Linux hardware EC integration.
-- **[Member 2]**: [Specific contributions]
-- **[Member 3]**: [Specific contributions]
+- **Gauri Santosh Nair**: implemented the frontend design and hardware integration
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
