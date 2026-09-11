@@ -3,7 +3,7 @@
 # Thermo-Stabilizer 9000 // The Inverse Fan Paradox 🎯
 
 ## Basic Details
-### Team Name: Thermo-Stabilizers
+### Team Name: Kinderjoy
 
 ### Team Members
 - Team Lead: Kailasnath T - Sahrdaya Collage Of Engineering and Technology
