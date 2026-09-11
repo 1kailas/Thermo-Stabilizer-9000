@@ -70,16 +70,8 @@ python3 anti_fan_cv.py
 
 ### Project Documentation
 For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](https://via.placeholder.com/800x450.png?text=Dashboard+Overview)
-*Real-time neobrutalist dashboard displaying webcam optical tachometer, inverse screen fan, and physical laptop hardware EC link telemetry.*
-
-![Screenshot2](https://via.placeholder.com/800x450.png?text=Turbo+Overdrive+100%25)
-*Virtual fan and real laptop cooling fan spooling up to 100% Turbo Overdrive when room fan is stopped.*
-
-![Screenshot3](https://via.placeholder.com/800x450.png?text=Floating+Desktop+Widget)
-*Picture-in-Picture floating fan widget pinned on top of IDE and desktop applications while coding.*
+<img width="1578" height="976" alt="image" src="https://github.com/user-attachments/assets/32950212-6811-47fe-a620-7b3082bec49d" />
+<img width="1835" height="975" alt="Screenshot from 2026-09-12 04-58-52" src="https://github.com/user-attachments/assets/67541a5c-ddf3-47c2-af0d-15d483a73018" />
 
 # Diagrams
 ```
