@@ -6,9 +6,8 @@
 ### Team Name: Thermo-Stabilizers
 
 ### Team Members
-- Team Lead: Kailasnath T - [College / Institution]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Kailasnath T - Sahrdaya Collage Of Englineering and Technology
+- Member 2: Gauri Santosh Nair - Sahrdaya Collage Of Englineering and Technology
 
 ### Project Description
 Thermo-Stabilizer 9000 is an inversely coupled anti-cooling system that optically tracks real-world room fans via webcam and drives a desktop virtual fan—plus your laptop's physical cooling fan—at an inversely proportional speed to spitefully preserve cosmic room heat.
