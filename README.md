@@ -131,8 +131,13 @@ For Hardware:
 ---
 
 ### Project Demo
+
 # Video
-[Add your demo video link here](https://github.com/1kailas/useless_project_temp)
+
+
+https://github.com/user-attachments/assets/5fe97e4c-aa06-4309-b010-aedb859ade5d
+
+
 *Demonstrates the optical tachometer tracking a room fan, inverse virtual fan animation, procedural jet turbine audio, and real physical laptop fan throttling.*
 
 # Additional Demos
